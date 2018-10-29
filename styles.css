@@ -1,0 +1,23 @@
+img {
+    width: 150px;
+    height: 150px;
+}
+html {
+    background-color: black;
+}
+body {
+    color: white;
+}
+h1 {
+    font-family: 'charmonman';
+}
+p {
+    font-family: 'charmonman';
+}
+h2 {
+    font-family: 'indie flower';
+}
+ul {
+    font-family: 'indie flower';
+}
+
